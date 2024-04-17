@@ -6,7 +6,7 @@ const Homepage = () => {
 
     return (
         <div className="py-3"> 
-this simple next project
+this is simple next project
         </div>
     )
     
