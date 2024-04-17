@@ -9,7 +9,7 @@ const Blog = () => {
     
     
     const handleBack = () => {
-        router.push('/About/namepage')
+        router.push('/')
     }
     return (<div className ="p-1 py-4">
         Blog page
